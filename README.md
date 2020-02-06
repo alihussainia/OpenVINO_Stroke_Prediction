@@ -1,0 +1,1 @@
+# OpenVINO_Stroke_Prediction
